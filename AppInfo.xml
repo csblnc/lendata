@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <DictionaryFile>dictionary</DictionaryFile>
+  <ArticleFile>article</ArticleFile>
+  <StatisticsFile>statistics</StatisticsFile>
+  <Record>record</Record>
+  <MyWordbookFile>record\\wordbook</MyWordbookFile>
+  <DictWordbookFile>record\\dictbook</DictWordbookFile>
+  <WordbookList>
+    <add name="有道考研词典" currentindex="109" date="2019/7/21 0:00:00" isdefault="False" />
+    <add name="我的单词本" currentindex="0" date="2019/7/19 0:00:00" isdefault="False" />
+    <add name="新东方考研单词乱序版" currentindex="0" iswordbook="True" isdefault="False" date="2019/8/3 0:00:00" />
+    <add name="高中英语3500单词乱序版" currentindex="339" iswordbook="True" isdefault="True" date="2019/8/5 0:00:00" />
+    <add name="有道考研词典乱序版" currentindex="0" iswordbook="True" isdefault="False" date="2019/8/5 0:00:00" />
+    <add name="GRE-再要你命3000" currentindex="0" iswordbook="True" isdefault="False" date="2019/8/5 0:00:00" />
+    <add name="有道六级单词CET-6" currentindex="0" iswordbook="True" isdefault="False" date="2019/8/5 0:00:00" />
+    <add name="综合词典8500" currentindex="0" iswordbook="True" isdefault="False" date="2019/8/5 0:00:00" />
+  </WordbookList>
+  <DictList>
+    <add name="有道考研词典" isdict="True" iswordbook="True" isdefaultdict="False" isdefaultwordbook="False" isdefaultarticledict="False" />
+    <add name="新东方考研单词乱序版" isdict="False" isdefault="False" />
+    <add name="高中英语3500单词乱序版" isdict="False" isdefault="False" />
+    <add name="有道考研词典乱序版" isdict="False" isdefault="False" />
+    <add name="GRE-再要你命3000" isdict="True" isdefault="False" />
+  </DictList>
+  <ReciteNumber>3</ReciteNumber>
+  <WordLogSaveLimit>365</WordLogSaveLimit>
+</app>

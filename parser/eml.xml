@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+    <definition name="EML" caseSensitive="true"> 
+	<word color="BLUE">article</word>
+	<word color="BLUE">head</word>
+	<word color="BLUE">author</word>
+	<word color="BLUE">time</word>
+	<word color="BLUE">class</word>
+	<word color="PINK">section</word>
+	<word color="ORANGE">p</word>	
+</definition>
