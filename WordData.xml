@@ -301,7 +301,7 @@
   </item>
   <item>
     <word>be</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -721,22 +721,22 @@
   </item>
   <item>
     <word>hear</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>hometown</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>nearly</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>mat</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -746,7 +746,7 @@
   </item>
   <item>
     <word>such as</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -776,7 +776,7 @@
   </item>
   <item>
     <word>hers</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -816,7 +816,7 @@
   </item>
   <item>
     <word>hardly</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -836,7 +836,7 @@
   </item>
   <item>
     <word>worn out</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
@@ -911,12 +911,282 @@
   </item>
   <item>
     <word>thirst</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>anxiety</word>
     <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tortoise</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>disappoint</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>reserve</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>although</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>trousers</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>howl</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>arrest</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>expert</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>swear</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wheel</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>owner</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>standard</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>sure</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>get into trouble</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>artificial</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>central</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>glad</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>zone</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>federal</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>passage</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>foolish</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bridegroom</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>against</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>directory</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>police</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>birthday</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>cloud</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>party</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>high</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>roof</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>not so…as</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>brochure</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bachelor</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>ad</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>form</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>sad</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>fun</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>uncle</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>fact</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>lady</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>born</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>face</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>cool</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bee</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>win</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>give</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>put</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>too…to</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>dream</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>lovely</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>boss</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>smog</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>not</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>push</word>
+    <progress>3</progress>
     <update>True</update>
   </item>
 </worddata>
