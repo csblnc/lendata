@@ -1,12 +1,12 @@
 <worddata>
   <item>
     <word>porter</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>firm</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -66,17 +66,17 @@
   </item>
   <item>
     <word>arrow</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>accountant</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>acquire</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -91,7 +91,7 @@
   </item>
   <item>
     <word>adequate</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -271,7 +271,7 @@
   </item>
   <item>
     <word>consideration</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -356,12 +356,12 @@
   </item>
   <item>
     <word>prison</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>oval</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -381,7 +381,7 @@
   </item>
   <item>
     <word>soul</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -401,12 +401,12 @@
   </item>
   <item>
     <word>troublesome</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>gallery</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -421,7 +421,7 @@
   </item>
   <item>
     <word>neat</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -506,7 +506,7 @@
   </item>
   <item>
     <word>hatch</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -566,7 +566,7 @@
   </item>
   <item>
     <word>into -tu,</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -606,7 +606,7 @@
   </item>
   <item>
     <word>be to blame</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -621,27 +621,27 @@
   </item>
   <item>
     <word>government</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>league</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>mushroom</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>shop assistant</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>on the basis of</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -651,22 +651,22 @@
   </item>
   <item>
     <word>cheat</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>invent</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>congratulate</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>television</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -681,12 +681,12 @@
   </item>
   <item>
     <word>cafeteria</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>rubber</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -711,7 +711,7 @@
   </item>
   <item>
     <word>motivation</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -781,27 +781,27 @@
   </item>
   <item>
     <word>jog</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>cage</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>split</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>hole</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>voyage</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -836,7 +836,7 @@
   </item>
   <item>
     <word>worn out</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -851,12 +851,12 @@
   </item>
   <item>
     <word>adore</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>rugby</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
@@ -866,17 +866,17 @@
   </item>
   <item>
     <word>cooker</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>shopkeeper</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>treasure</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
@@ -886,27 +886,27 @@
   </item>
   <item>
     <word>promote</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>delighted</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>silver</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>chocolate</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>substitute</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
