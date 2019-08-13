@@ -1404,4 +1404,14 @@
     <progress>1</progress>
     <update>True</update>
   </item>
+  <item>
+    <word>wipe</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>ambiguous</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
 </worddata>
