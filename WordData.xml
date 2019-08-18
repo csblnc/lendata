@@ -261,7 +261,7 @@
   </item>
   <item>
     <word>squirrel</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -281,7 +281,7 @@
   </item>
   <item>
     <word>into</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -761,7 +761,7 @@
   </item>
   <item>
     <word>violence</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -771,7 +771,7 @@
   </item>
   <item>
     <word>fetch</word>
-    <progress>-1</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -781,7 +781,7 @@
   </item>
   <item>
     <word>jog</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -806,12 +806,12 @@
   </item>
   <item>
     <word>concept</word>
-    <progress>0</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>march</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -821,7 +821,7 @@
   </item>
   <item>
     <word>behalf</word>
-    <progress>0</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -831,7 +831,7 @@
   </item>
   <item>
     <word>helicopter</word>
-    <progress>0</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -906,7 +906,7 @@
   </item>
   <item>
     <word>substitute</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -916,7 +916,7 @@
   </item>
   <item>
     <word>anxiety</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -961,7 +961,7 @@
   </item>
   <item>
     <word>swear</word>
-    <progress>0</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -1036,7 +1036,7 @@
   </item>
   <item>
     <word>directory</word>
-    <progress>0</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -1071,17 +1071,17 @@
   </item>
   <item>
     <word>not so…as</word>
-    <progress>0</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>brochure</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>bachelor</word>
-    <progress>0</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -1091,7 +1091,7 @@
   </item>
   <item>
     <word>form</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1196,12 +1196,12 @@
   </item>
   <item>
     <word>look ahead</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>oppose</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1216,12 +1216,12 @@
   </item>
   <item>
     <word>meal</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>swing</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1241,7 +1241,7 @@
   </item>
   <item>
     <word>sentence…to death</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
@@ -1276,17 +1276,17 @@
   </item>
   <item>
     <word>crash</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>being</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>clever</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1336,12 +1336,12 @@
   </item>
   <item>
     <word>propose a toast to sb.</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>software</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1351,12 +1351,12 @@
   </item>
   <item>
     <word>hold one's breath</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>academy</word>
-    <progress>-1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1381,7 +1381,7 @@
   </item>
   <item>
     <word>furnished</word>
-    <progress>-1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1406,42 +1406,42 @@
   </item>
   <item>
     <word>wipe</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>ambiguous</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>shape</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>leap</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>progress</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>elapse</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>breakthrough</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>ubiquitous</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1451,147 +1451,147 @@
   </item>
   <item>
     <word>landscape</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>assembly lines</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>set into</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>drastically</word>
-    <progress>1</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>poised</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>mobility</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>emission</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>legion</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>emerging markets</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>clamour</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>emerging</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>fraction</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>fearsome</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>congestion</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>stricter</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>choked</word>
-    <progress>-2</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>impose</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>curb</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>noxious</word>
-    <progress>-2</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>soot</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>particles</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>emitted</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>exhaust</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>grant</word>
-    <progress>1</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>battery</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>widening</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>petrol</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>diesel</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>switch</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1601,81 +1601,921 @@
   </item>
   <item>
     <word>contradictive</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>furnish</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>establish</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>intellectual</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>qualification</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>worthy</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>appearance</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>aspect</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>liquid</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>sword</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>lad</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>apply</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>exterior</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>preference</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>elbow</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>discipline</word>
+    <progress>2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>quadruple</word>
+    <progress>2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>challenge</word>
+    <progress>2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>terrific</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>thrill</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>flu</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>edition</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>triumph</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>hostage</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>loaf</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>applicable</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>motion</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>diploma</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>dragon</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>contrast</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>trend</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>honorable</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>appendix</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>objection</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>inflation</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>substantial</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>hasty</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>interpret</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>romance</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>rectangle</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>owl</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>denote</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>editor</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>fruitful</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>startle</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>inlet</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>system</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>concede</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>jewelry</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>dictate</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>lame</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>stiff</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>pinch</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>pants</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>remnant</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>projector</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>torrent</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>crisp</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tag</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>duration</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>dealer</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>incident</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>zeal</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>yourselves</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>six</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>hide</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>keep</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>northeast</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>than</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>cover</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>because</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>over</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>national</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>Monday</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>reptile</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>skillful</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>descent</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bother</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>sheer</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>sketch</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>trench</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>excess</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>elite</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>responsible</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bracket</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>theatre</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>moan</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>month</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>vanity</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>beg</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tow</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>likelihood</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>stability</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>therapy</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>partly</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>storage</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wasteful</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>odd</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>prompt</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>foodstuff</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bay</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>contrive</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>hall</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>assume</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>affirmative</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>peculiarity</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bare</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>region</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>propose</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>chemistry</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>lantern</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>timely</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>exam</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>toilet</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>thorough</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>widow</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>circus</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>berry</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>mighty</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>whose</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>yourself</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>cold</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>length</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>equality</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>breast</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>general</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>hungry</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>purpose</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>recent</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>biology</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>in no case</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>discourage</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>half</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>forbid</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>bathe</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>suitcase</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>handbag</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>protection</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>scar</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>telescope</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>waste</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>alley</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wag</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>flexible</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>consultant</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>purple</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>harbour</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>appropriate</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>past</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wander</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>equipment</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wind</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>get through</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>postage</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>jewellery</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>monument</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>recipe</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>pack</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>unfit</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>religious</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tongue</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>habit</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tourism</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>effect</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>speaker</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>story</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>advertise</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>autonomous</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wisdom</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>for ever</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>once again</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>stay</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>neighbourhood</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>trap</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>fill</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>sleeve</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>spaceship</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>in the case of</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>set free</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>frog</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>wet</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>success</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>dictionary</word>
+    <progress>3</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>M-Motorwagen</word>
     <progress>1</progress>
     <update>True</update>
   </item>
