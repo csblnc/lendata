@@ -261,7 +261,7 @@
   </item>
   <item>
     <word>squirrel</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -761,7 +761,7 @@
   </item>
   <item>
     <word>violence</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -771,7 +771,7 @@
   </item>
   <item>
     <word>fetch</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -806,7 +806,7 @@
   </item>
   <item>
     <word>concept</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -831,7 +831,7 @@
   </item>
   <item>
     <word>helicopter</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -961,7 +961,7 @@
   </item>
   <item>
     <word>swear</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1036,7 +1036,7 @@
   </item>
   <item>
     <word>directory</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1081,7 +1081,7 @@
   </item>
   <item>
     <word>bachelor</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1241,7 +1241,7 @@
   </item>
   <item>
     <word>sentence…to death</word>
-    <progress>-1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1411,7 +1411,7 @@
   </item>
   <item>
     <word>ambiguous</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1421,22 +1421,22 @@
   </item>
   <item>
     <word>leap</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>progress</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>elapse</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>breakthrough</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1451,22 +1451,22 @@
   </item>
   <item>
     <word>landscape</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>assembly lines</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>set into</word>
-    <progress>2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>drastically</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -1476,7 +1476,7 @@
   </item>
   <item>
     <word>mobility</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1526,7 +1526,7 @@
   </item>
   <item>
     <word>choked</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -1541,7 +1541,7 @@
   </item>
   <item>
     <word>noxious</word>
-    <progress>0</progress>
+    <progress>1</progress>
     <update>True</update>
   </item>
   <item>
@@ -1566,7 +1566,7 @@
   </item>
   <item>
     <word>grant</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -1616,7 +1616,7 @@
   </item>
   <item>
     <word>intellectual</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
@@ -1631,17 +1631,17 @@
   </item>
   <item>
     <word>appearance</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>aspect</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>liquid</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -1651,117 +1651,117 @@
   </item>
   <item>
     <word>lad</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>apply</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>exterior</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>preference</word>
-    <progress>-1</progress>
+    <progress>0</progress>
     <update>True</update>
   </item>
   <item>
     <word>elbow</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>discipline</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>quadruple</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>challenge</word>
-    <progress>2</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>terrific</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>thrill</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>flu</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>edition</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>triumph</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>hostage</word>
-    <progress>1</progress>
+    <progress>-2</progress>
     <update>True</update>
   </item>
   <item>
     <word>loaf</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>applicable</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>motion</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>diploma</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>dragon</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>contrast</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>trend</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>honorable</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>appendix</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -1771,32 +1771,32 @@
   </item>
   <item>
     <word>inflation</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>substantial</word>
-    <progress>1</progress>
+    <progress>-2</progress>
     <update>True</update>
   </item>
   <item>
     <word>hasty</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>interpret</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>romance</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>rectangle</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -2221,7 +2221,7 @@
   </item>
   <item>
     <word>breast</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -2251,7 +2251,7 @@
   </item>
   <item>
     <word>in no case</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -2261,22 +2261,22 @@
   </item>
   <item>
     <word>half</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>forbid</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>bathe</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>suitcase</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
@@ -2286,142 +2286,142 @@
   </item>
   <item>
     <word>protection</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>scar</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>telescope</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>waste</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>alley</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>wag</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>flexible</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>consultant</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>purple</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>harbour</word>
-    <progress>1</progress>
+    <progress>-2</progress>
     <update>True</update>
   </item>
   <item>
     <word>appropriate</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>past</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>wander</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>equipment</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>wind</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>get through</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>postage</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>jewellery</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>monument</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>recipe</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>pack</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>unfit</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>religious</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>tongue</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>habit</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>tourism</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>effect</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>speaker</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -2431,82 +2431,82 @@
   </item>
   <item>
     <word>advertise</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>autonomous</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>wisdom</word>
-    <progress>-2</progress>
+    <progress>-1</progress>
     <update>True</update>
   </item>
   <item>
     <word>for ever</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>once again</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>stay</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>neighbourhood</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>trap</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>fill</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>sleeve</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>spaceship</word>
-    <progress>1</progress>
+    <progress>3</progress>
     <update>True</update>
   </item>
   <item>
     <word>in the case of</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>set free</word>
-    <progress>1</progress>
+    <progress>-2</progress>
     <update>True</update>
   </item>
   <item>
     <word>frog</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>wet</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
     <word>success</word>
-    <progress>1</progress>
+    <progress>2</progress>
     <update>True</update>
   </item>
   <item>
@@ -2516,6 +2516,21 @@
   </item>
   <item>
     <word>M-Motorwagen</word>
+    <progress>2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>tranparent</word>
+    <progress>-2</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>feel</word>
+    <progress>1</progress>
+    <update>True</update>
+  </item>
+  <item>
+    <word>guilty</word>
     <progress>1</progress>
     <update>True</update>
   </item>
